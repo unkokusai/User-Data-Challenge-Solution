@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+
 @interface CCViewController : UIViewController
+
+@property (strong, nonatomic) NSArray *users;
+
 
 @end
